@@ -14,7 +14,7 @@ public class serv
     {
         try
         {
-            IPAddress ipAd = IPAddress.Parse("172.21.5.99");
+            IPAddress ipAd = IPAddress.Parse("192.168.31.115");
             // use local m/c IP address, and 
             // use the same in the client
 
